@@ -27,7 +27,7 @@ Préstamos y devoluciones con cálculo automático de mora
 Configuración dinámica de tipos de materiales y usuarios
 Configuración de mora por día y días de préstamo por tipo
 ** Reporte de disponibilidad de materiales** (NUEVO)
-📋 Requisitos previos (instalar UNA SOLA VEZ)
+ Requisitos previos (instalar UNA SOLA VEZ)
 Antes de ejecutar el proyecto, debes tener instalado:
 
 Requisito	Versión	Enlace de descarga

@@ -1,14 +1,22 @@
 Proyecto Mediateca
+
 SISTEMA DE PRÉSTAMOS - MEDIATECA
 Proyecto Fase I - Desafío 2 POO941 G01T (Virtual)
 Integrantes
 Kevin Alexander Cardoza Márquez CM251645
+
 Francisco Adalberto De la O González DG200722
+
 Francisco Alexander Rivera Gómez RG253507
+
 Ricardo Balmore Aguilar Ventura AV253053
+
 Ricardo Daniel De León Cruz DC251463
+
 Catedrático
 Rafael Alexander Torres Rodriguez
+
+
 
 Descripción del Proyecto
 Sistema de gestión de préstamos para una mediateca que permite:
